@@ -1,0 +1,15 @@
+/home/dani/RiderProjects/PostgresEfCoreTutorial/MovieApp.Data/bin/Debug/net5.0/MovieApp.Data.deps.json
+/home/dani/RiderProjects/PostgresEfCoreTutorial/MovieApp.Data/bin/Debug/net5.0/MovieApp.Data.runtimeconfig.json
+/home/dani/RiderProjects/PostgresEfCoreTutorial/MovieApp.Data/bin/Debug/net5.0/MovieApp.Data.runtimeconfig.dev.json
+/home/dani/RiderProjects/PostgresEfCoreTutorial/MovieApp.Data/bin/Debug/net5.0/MovieApp.Data.dll
+/home/dani/RiderProjects/PostgresEfCoreTutorial/MovieApp.Data/bin/Debug/net5.0/ref/MovieApp.Data.dll
+/home/dani/RiderProjects/PostgresEfCoreTutorial/MovieApp.Data/bin/Debug/net5.0/MovieApp.Data.pdb
+/home/dani/RiderProjects/PostgresEfCoreTutorial/MovieApp.Data/obj/Debug/net5.0/MovieApp.Data.csproj.AssemblyReference.cache
+/home/dani/RiderProjects/PostgresEfCoreTutorial/MovieApp.Data/obj/Debug/net5.0/MovieApp.Data.GeneratedMSBuildEditorConfig.editorconfig
+/home/dani/RiderProjects/PostgresEfCoreTutorial/MovieApp.Data/obj/Debug/net5.0/MovieApp.Data.AssemblyInfoInputs.cache
+/home/dani/RiderProjects/PostgresEfCoreTutorial/MovieApp.Data/obj/Debug/net5.0/MovieApp.Data.AssemblyInfo.cs
+/home/dani/RiderProjects/PostgresEfCoreTutorial/MovieApp.Data/obj/Debug/net5.0/MovieApp.Data.csproj.CoreCompileInputs.cache
+/home/dani/RiderProjects/PostgresEfCoreTutorial/MovieApp.Data/obj/Debug/net5.0/MovieApp.Data.dll
+/home/dani/RiderProjects/PostgresEfCoreTutorial/MovieApp.Data/obj/Debug/net5.0/ref/MovieApp.Data.dll
+/home/dani/RiderProjects/PostgresEfCoreTutorial/MovieApp.Data/obj/Debug/net5.0/MovieApp.Data.pdb
+/home/dani/RiderProjects/PostgresEfCoreTutorial/MovieApp.Data/obj/Debug/net5.0/MovieApp.Data.genruntimeconfig.cache
